@@ -1,4 +1,4 @@
-# VaporWaveArt
+# VaporWaveGenerator
 
 O código Vaporwariza uma image. Esse código é puramente artístico e não tem outro propósito.
 
